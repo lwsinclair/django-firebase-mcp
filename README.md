@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/raghavdasila-django-firebase-mcp-badge.png)](https://mseep.ai/app/raghavdasila-django-firebase-mcp)
+
 # Django Firebase MCP
 
 A comprehensive Django app that implements Firebase Model Context Protocol (MCP) server, enabling AI agents to interact with Firebase services through a standardized protocol.
